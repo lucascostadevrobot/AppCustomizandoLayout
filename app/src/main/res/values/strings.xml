@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppCustomizandoLayouts</string>
+
+    <!--Inicialização das Strings MainActivity-->
+    <string name="text_bemvindo_telaincial">Olá, muito bem vindoas ao App de Custominzação!</string>
+    <string name="btn_telaincial">Button</string>
+    <string name="switch_telaincial">Switch</string>
+</resources>
